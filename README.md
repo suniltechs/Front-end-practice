@@ -1,4 +1,3 @@
-```markdown
 # Front-End Practice
 
 Welcome to the **Front-End Practice** repository! This project is a collection of various front-end development exercises and mini-projects that I have built to improve my skills in HTML, CSS, JavaScript, and other front-end technologies.
@@ -97,4 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for checking out my **Front-End Practice** repository! If you have any questions or feedback, feel free to open an issue or reach out directly. Happy coding!
-```
